@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "The Gaang",
+      "picture": "assets/gaang.jpeg",
+      "users": [1, 2, 3]
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Aang",
+      "profilePicture": "assets/profiles/Avatar_Aang.png"
+    },
+    {
+      "id": 2,
+      "name": "Katara",
+      "profilePicture": "assets/profiles/katara.png"
+    },
+    {
+      "id": 3,
+      "name": "Sokka",
+      "profilePicture": "assets/profiles/sokka.png"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "groupId": 1,
+      "from": 1,
+      "body": "Hey guys, have you seen Appa?"
+    },
+    {
+      "id": 2,
+      "groupId": 1,
+      "from": 2,
+      "body": "No, I thought you had him"
+    },
+    {
+      "id": 3,
+      "groupId": 1,
+      "from": 1,
+      "body": "I went into Ba Sing Se and left him with you guys. Did we lose him again?"
+    },
+    {
+      "id": 4,
+      "groupId": 1,
+      "from": 3,
+      "body": "I think I just saw Ozai 😳"
+    }
+  ]
+}
